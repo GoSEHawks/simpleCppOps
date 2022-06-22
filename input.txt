@@ -1,0 +1,9 @@
+I am adding a line.
+I am adding another line.
+
+Our program reads and writes to this file. 
+You can look at this file, you will see it has text in it.
+Our program will first write to this file, then read from it.
+We can’t do that for input.txt. We won’t see the added text in the file.
+I am adding a line.
+I am adding another line.
